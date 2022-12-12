@@ -1,0 +1,45 @@
+{
+ "images": [
+  {
+   "file": "001335_test__RPXD0004.png",
+   "max_detection_conf": 0.447,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.00822,
+     "bbox": [
+      0.6776,
+      0.1527,
+      0.09895,
+      0.1212
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.447,
+     "bbox": [
+      0.3041,
+      0.7277,
+      0.5328,
+      0.2703
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-27 02:09:48",
+  "format_version": "1.2",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  }
+ }
+}
