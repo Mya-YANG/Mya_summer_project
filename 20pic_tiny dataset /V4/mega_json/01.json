@@ -1,0 +1,55 @@
+{
+ "images": [
+  {
+   "file": "/home/iluvatar/Desktop/ymy/new/video2pic/20pic/ori_pic/01.jpg",
+   "max_detection_conf": 0.829,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.829,
+     "bbox": [
+      0.2137,
+      0.2196,
+      0.05716,
+      0.09301
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.0537,
+     "bbox": [
+      0.2144,
+      0.2195,
+      0.05586,
+      0.09279
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0131,
+     "bbox": [
+      0.3011,
+      0.4019,
+      0.2219,
+      0.1346
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-23 09:25:34",
+  "format_version": "1.2",
+  "detector": "md_v4.1.0.pb",
+  "detector_metadata": {
+   "megadetector_version": "v4.1.0",
+   "typical_detection_threshold": 0.8,
+   "conservative_detection_threshold": 0.6
+  }
+ }
+}
