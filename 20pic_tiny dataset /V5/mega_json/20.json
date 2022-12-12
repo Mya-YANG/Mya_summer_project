@@ -1,0 +1,65 @@
+{
+ "images": [
+  {
+   "file": "20.jpg",
+   "max_detection_conf": 0.335,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.0416,
+     "bbox": [
+      0.282,
+      0.3219,
+      0.3759,
+      0.3659
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0815,
+     "bbox": [
+      0.6039,
+      0.002,
+      0.3959,
+      0.736
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.264,
+     "bbox": [
+      0.1319,
+      0.3199,
+      0.702,
+      0.492
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.335,
+     "bbox": [
+      0.1359,
+      0.018,
+      0.86,
+      0.9779
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-26 13:32:39",
+  "format_version": "1.2",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  }
+ }
+}

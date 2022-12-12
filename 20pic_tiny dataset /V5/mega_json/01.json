@@ -1,0 +1,135 @@
+{
+ "images": [
+  {
+   "file": "01.jpg",
+   "max_detection_conf": 0.764,
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.00506,
+     "bbox": [
+      0.2276,
+      0.2254,
+      0.04461,
+      0.08439
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0054,
+     "bbox": [
+      0.2361,
+      0.3352,
+      0.6646,
+      0.5329
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.00618,
+     "bbox": [
+      0.0323,
+      0.2242,
+      0.2415,
+      0.1063
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.00705,
+     "bbox": [
+      0.2576,
+      0.002312,
+      0.03692,
+      0.04855
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0072,
+     "bbox": [
+      0.2138,
+      0.2173,
+      0.4515,
+      0.3641
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0111,
+     "bbox": [
+      0,
+      0.2242,
+      0.2753,
+      0.1086
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0177,
+     "bbox": [
+      0.4892,
+      0.415,
+      0.1846,
+      0.1687
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0259,
+     "bbox": [
+      0.2938,
+      0.4046,
+      0.2076,
+      0.1352
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0864,
+     "bbox": [
+      0.1669,
+      0.2115,
+      0.8299,
+      0.4416
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.379,
+     "bbox": [
+      0.213,
+      0.2254,
+      0.05692,
+      0.0867
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.764,
+     "bbox": [
+      0.2938,
+      0.3999,
+      0.3746,
+      0.1872
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-26 13:32:39",
+  "format_version": "1.2",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  }
+ }
+}

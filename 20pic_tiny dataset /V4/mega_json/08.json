@@ -1,0 +1,135 @@
+{
+ "images": [
+  {
+   "file": "/home/iluvatar/Desktop/ymy/new/video2pic/20pic/ori_pic/08.jpg",
+   "max_detection_conf": 0.998,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.998,
+     "bbox": [
+      0.2779,
+      0.2699,
+      0.3854,
+      0.4474
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.878,
+     "bbox": [
+      0.7694,
+      0.4837,
+      0.2305,
+      0.5121
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.852,
+     "bbox": [
+      0.6899,
+      0.445,
+      0.1235,
+      0.09815
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.799,
+     "bbox": [
+      0.907,
+      0.4871,
+      0.09168,
+      0.4265
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.572,
+     "bbox": [
+      0,
+      0.02728,
+      0.2812,
+      0.9605
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.542,
+     "bbox": [
+      0,
+      0.02666,
+      0.2882,
+      0.9453
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.507,
+     "bbox": [
+      0.2647,
+      0.2927,
+      0.7151,
+      0.6978
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0509,
+     "bbox": [
+      0.767,
+      0.8954,
+      0.2284,
+      0.1022
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.0414,
+     "bbox": [
+      0.7692,
+      0.4566,
+      0.2307,
+      0.5433
+     ]
+    },
+    {
+     "category": "3",
+     "conf": 0.0291,
+     "bbox": [
+      0.007493,
+      0.105,
+      0.2673,
+      0.7912
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0168,
+     "bbox": [
+      0.484,
+      0.4417,
+      0.5155,
+      0.5582
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-23 09:21:21",
+  "format_version": "1.2",
+  "detector": "md_v4.1.0.pb",
+  "detector_metadata": {
+   "megadetector_version": "v4.1.0",
+   "typical_detection_threshold": 0.8,
+   "conservative_detection_threshold": 0.6
+  }
+ }
+}

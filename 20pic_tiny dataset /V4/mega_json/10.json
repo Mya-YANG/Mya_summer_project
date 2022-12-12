@@ -1,0 +1,175 @@
+{
+ "images": [
+  {
+   "file": "/home/iluvatar/Desktop/ymy/new/video2pic/20pic/ori_pic/10.jpg",
+   "max_detection_conf": 0.953,
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.218,
+      0.2222,
+      0.7732,
+      0.4807
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.511,
+     "bbox": [
+      0.3026,
+      0.04881,
+      0.6973,
+      0.8167
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.26,
+     "bbox": [
+      0.2221,
+      0.2834,
+      0.5384,
+      0.3437
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.243,
+     "bbox": [
+      0.2121,
+      0.03989,
+      0.7815,
+      0.5561
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.129,
+     "bbox": [
+      0.1456,
+      0.2875,
+      0.827,
+      0.6525
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0365,
+     "bbox": [
+      0.2136,
+      0.2528,
+      0.571,
+      0.571
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0317,
+     "bbox": [
+      0.05769,
+      0.02263,
+      0.6499,
+      0.5959
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0308,
+     "bbox": [
+      0.2907,
+      0.2375,
+      0.6729,
+      0.3147
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0225,
+     "bbox": [
+      0.2235,
+      0.3501,
+      0.118,
+      0.221
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.0192,
+     "bbox": [
+      0.3086,
+      0.04123,
+      0.6913,
+      0.8274
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.0192,
+     "bbox": [
+      0.02976,
+      0.006171,
+      0.3854,
+      0.5658
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0175,
+     "bbox": [
+      0.06269,
+      0.155,
+      0.8048,
+      0.6962
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0142,
+     "bbox": [
+      0.01948,
+      0.02584,
+      0.4146,
+      0.5271
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.2667,
+      0.3161,
+      0.5787,
+      0.403
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0101,
+     "bbox": [
+      0.1075,
+      0.3617,
+      0.5621,
+      0.6086
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-09-23 09:23:18",
+  "format_version": "1.2",
+  "detector": "md_v4.1.0.pb",
+  "detector_metadata": {
+   "megadetector_version": "v4.1.0",
+   "typical_detection_threshold": 0.8,
+   "conservative_detection_threshold": 0.6
+  }
+ }
+}
