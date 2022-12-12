@@ -1,0 +1,3655 @@
+{
+ "images": [
+  {
+   "file": "001343_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001542_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001569_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001164_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001467_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001297_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000995_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001281_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001165_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001502_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001462_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001200_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001336_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001102_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001475_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001410_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001459_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001443_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001557_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001158_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001368_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001480_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001337_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001270_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001476_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001271_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001510_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001311_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001287_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001484_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001180_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001548_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001108_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001201_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001552_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001057_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001505_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001370_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001087_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001393_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001258_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001010_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001332_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001122_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000987_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001241_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001266_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001022_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001170_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001250_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001099_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001556_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001109_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001171_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001008_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001512_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001020_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001128_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001140_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001118_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001539_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001212_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001058_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001182_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000981_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001543_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001016_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001365_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001034_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001177_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001448_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001090_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001422_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001030_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001359_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001113_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001049_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001335_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001252_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001131_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001501_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001477_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001519_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001320_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001442_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001155_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001338_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001154_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001383_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001298_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001412_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001015_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001066_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001116_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001394_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001516_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001523_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001560_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001349_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000972_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001080_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001408_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000970_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001231_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001355_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001525_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001345_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001143_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001050_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001449_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000966_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001208_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001031_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000985_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001129_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001528_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001195_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001002_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001135_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001169_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001328_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001315_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001132_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001304_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001053_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001259_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001378_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001465_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001167_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001119_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001545_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001421_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001494_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001440_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001330_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001257_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001357_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001549_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001376_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001104_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001150_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001367_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001445_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000973_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001032_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001244_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001157_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001492_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001072_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001524_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001069_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001486_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001551_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001441_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001324_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001399_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000967_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001307_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001210_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001544_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001364_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001339_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001517_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000968_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001269_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001288_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001313_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001490_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001526_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001294_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001222_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001024_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001077_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001203_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001463_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001375_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001075_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001317_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001041_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000999_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001341_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001358_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001205_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001236_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001415_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001401_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001144_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001507_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000974_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001100_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001352_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001168_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001391_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001280_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001220_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001105_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001166_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001413_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000975_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001506_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001219_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000986_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001285_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001314_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001040_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001156_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001187_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001055_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001427_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001497_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001536_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001067_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001485_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001482_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000993_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001546_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001312_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001181_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001310_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001565_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001333_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001197_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001389_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001322_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001409_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001395_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001325_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000998_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001305_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001013_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001478_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001483_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001291_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001278_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001555_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001286_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001417_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001437_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001290_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001261_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001023_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001199_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001106_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001228_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001120_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001489_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001346_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001125_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001245_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001460_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001110_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001514_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001334_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001400_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001303_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001455_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001436_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001446_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001277_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001265_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001083_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001204_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000992_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001566_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001148_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001145_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001084_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001029_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001051_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001488_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001553_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001302_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001047_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001404_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001004_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001554_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000983_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001138_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001385_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001115_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000979_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001431_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001499_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001420_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000994_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001209_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001293_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001198_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001274_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001362_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001432_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001276_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001142_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001531_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001045_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001226_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001081_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001039_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001447_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001046_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001097_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001005_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000969_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001363_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001018_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001093_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001178_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001076_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001127_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000989_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001351_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001300_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001071_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001011_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001027_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001508_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001173_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001373_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001468_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001147_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001377_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001430_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001429_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000971_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001570_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001500_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001380_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001251_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001450_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001174_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000978_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001256_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001123_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001479_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001207_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001403_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001530_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001563_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001036_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001068_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001306_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001481_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001474_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001012_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001457_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001471_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001078_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001558_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001000_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000976_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001301_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001495_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001444_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001191_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001247_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001372_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001240_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001487_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001511_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001458_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001329_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001435_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001260_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001386_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001176_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001159_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001103_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001133_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001153_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001185_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000991_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001292_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001515_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001101_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001520_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001193_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001162_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001411_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001540_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001532_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001192_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001493_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001428_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001331_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001414_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001186_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001470_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001086_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001491_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001121_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001082_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001152_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001538_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001398_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001134_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001223_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001387_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001126_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001233_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001092_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001017_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001007_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001264_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001054_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001326_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001382_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001239_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001188_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001175_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001254_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001065_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001344_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001456_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001319_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001196_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001232_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001062_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001218_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001541_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001227_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001388_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001161_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001423_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001272_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001453_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001117_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001299_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001085_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001044_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001464_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001061_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001019_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001183_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001141_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001160_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001439_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001035_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001237_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001369_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001379_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001327_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001571_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000996_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001350_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001354_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001124_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001521_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001014_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001202_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001433_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001179_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000990_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001454_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001139_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001406_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001189_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001308_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001529_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001003_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001353_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001230_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001503_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001371_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001356_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001513_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001533_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001361_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001224_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001284_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001451_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001025_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001547_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001419_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001396_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000982_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001107_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001026_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001537_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001347_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001262_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001001_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001009_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001504_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001568_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001213_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001211_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001323_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001059_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001518_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000988_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001564_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001535_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001567_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001248_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001217_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001405_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001416_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001042_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001243_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001390_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001321_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001279_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000977_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001235_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001214_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001074_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001052_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001461_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001282_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001063_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001562_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001289_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001163_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001348_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001151_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001037_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001096_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001498_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001088_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001340_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001402_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001006_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001242_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001425_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001091_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001381_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001079_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001397_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001064_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001137_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001221_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001253_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001452_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001561_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001060_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001021_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001283_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001469_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001229_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001438_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001424_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001136_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001273_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001249_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001466_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001384_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001038_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001268_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001094_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001434_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001522_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001089_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001527_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001149_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001216_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001033_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001366_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001360_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001048_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001112_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001056_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000997_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001095_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001496_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001111_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001246_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001407_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001418_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001028_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001342_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000984_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001114_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001559_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001238_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001130_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001534_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001275_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001190_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001295_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001374_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001172_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001267_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "000980_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001255_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001043_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001473_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001426_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001098_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001194_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001206_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001225_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001215_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001184_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001392_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001472_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001316_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001234_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001146_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001550_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001296_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001073_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001318_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001309_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001070_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001263_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  },
+  {
+   "file": "001509_test__RPXD0004.png",
+   "failure": "Failure inference",
+   "max_detection_conf": 0.0,
+   "detections": []
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2022-11-02 07:03:22",
+  "format_version": "1.2",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  }
+ }
+}
